@@ -1,13 +1,13 @@
 # Scolistic_React Js
 
  # Website : 
-  ## Home Page
-![Screenshot (55)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/4052fddd-bb0e-4a39-970a-7f4929cc9d6b)
-## Contact Page
-![Screenshot (56)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/fb1e150b-5ad3-40a9-899d-89b571033320)
+ # Home Page 
+![Screenshot (61)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/e285ed4a-a44a-49e4-ba76-4308e20e5216)
+ # Contact Page 
+![Screenshot (62)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/8fec73be-c5a9-4cf9-8e20-3359d98751a5)
 # Sign in Page
-![Screenshot (58)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/c687133a-1b42-4a04-974a-cc0688e9b413)
-## Sign up
-![Screenshot (59)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/b0f42c91-6983-494d-ab70-e191a54ad13d)
-## Scholarship page
-![Screenshot (60)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/e9ec1fb8-993d-49e1-855f-6598ed575d1a)
+![Screenshot (63)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/5a22c3e4-09ec-4f6a-bbae-bfec0e11e636)
+# Sign up Page
+![Screenshot (64)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/3967dea8-daa2-489c-9ece-d2cb2608f992)
+# Scholarship Page
+![Screenshot (65)](https://github.com/SARITAPRAJAPATI21/Scolistic-React/assets/117981323/0ac42210-d7c3-4ecc-b658-0f7a5eee53df)
