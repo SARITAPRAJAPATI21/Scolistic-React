@@ -22,7 +22,7 @@ next();
 app.get('/',(req, res)=>{ 
 res.send(`hello world from the server app,js`);
 });
-app.get('/about',middleware,(req,res)=>{
+app.get('/about', middleware ,(req,res)=>{
     res.send(`About section`);
     
 });
